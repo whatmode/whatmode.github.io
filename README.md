@@ -1,1 +1,1 @@
-# whatmode_blog
+# whatmode_blog.github.io
